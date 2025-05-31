@@ -52,3 +52,4 @@ Este projeto tem como objetivo apresentar uma ferramenta simples e prática de s
 
 Este projeto foi desenvolvido como parte do curso de Excel, com foco em aplicações financeiras e uso de GitHub para versionamento e compartilhamento de projetos técnicos.
 
+[Desafio_Simulator_Investimentos.xlsx](https://github.com/user-attachments/files/20535034/Desafio_Simulator_Investimentos.xlsx)
